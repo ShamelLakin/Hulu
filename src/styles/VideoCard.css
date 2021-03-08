@@ -18,6 +18,14 @@
     /* prevents stretched images */
 }
 
+.videoCard__stats {
+    display: none;
+}
+
+.videoCard:hover > .videoCard__stats {
+    display: inline;
+}
+
 .videoCard > h2 {
     padding-top: 10px;
 }

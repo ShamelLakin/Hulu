@@ -1,10 +1,11 @@
 import React from 'react'
 import './styles/Nav.css'
+import requests from "./api/requests"
 
-function Nav() {
+function Nav({ setSelectedOption }) {
     return (
       <div className="nav">
-        <h2>Trending</h2>
+        <h2 onClick={() => setSelectedOption(requests.fetchTrending)}>Trending</h2>
         <h2>Top rated</h2>
         <h2>Action</h2>
         <h2>Comedy</h2>
