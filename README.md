@@ -1,7 +1,5 @@
 # Getting Started This Hulu Clone
 
-[Hulu-Clone](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
