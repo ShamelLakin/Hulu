@@ -8,6 +8,7 @@ import requests from "./api/requests";
 
 function App() {
   const [selectedOption, setSelectedOption] = useState(requests.fetchTrending);
+  
   return (
     <div className="app">
       <Header />
