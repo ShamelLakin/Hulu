@@ -1,7 +1,7 @@
 # Getting Started with Hulu Clone
 ![Alt Text](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif) 
 
-## Deployed Version here [Hulu clone](https://huluclone-4432e.web.app/)
+## Deployed version here [Hulu clone](https://huluclone-4432e.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
