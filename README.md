@@ -1,6 +1,8 @@
 # Getting Started with Hulu Clone
 ![Alt Text](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif) 
 
+## Deployed Version here [Hulu clone](https://huluclone-4432e.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
@@ -26,16 +28,16 @@ Check it out right here [TMDB](https://www.themoviedb.org/) for more information
 
 **Note: react packages used in this build below**
 
-## react-text-truncate
+## `react-text-truncate`
 
 You can learn more here [react-text-truncate](https://www.npmjs.com/package/react-text-truncate).
 
 
-### react-flip-move
+### `react-flip-move`
 
 React Flip Move gives you an awesome made to tackle the common but arduous problem of animating a list of items when the list's order changes.: [react-flip-move](https://github.com/joshwcomeau/react-flip-move)
 
-### Firebase Deployment
+### `Firebase Deployment`
 
 Firebase is awesome for hosting check it out here: [firebase](https://firebase.google.com/)
 
